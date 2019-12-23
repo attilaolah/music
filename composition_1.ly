@@ -14,6 +14,8 @@
 
     bes/f | bes/f | f | f |
     bes/f | bes/f | f | f |
+
+    c/e | c/e |
   }
 
   \relative {
@@ -24,14 +26,17 @@
     }
     \alternative {
       { g2.~ g8 e16 d | c1 | }
-      { g'1~ | g2.~ g8 c,8 | }
+      { g'1 | r2. r8 c, | }
     }
     \break
 
-    d8. f bes4 d,8 f bes | d,8. f bes4 f8 bes e |
-    c1~ | c | \break
-    d,8. f bes4 d,8 f bes | d,8. f bes4 f8 bes4 |
-    a1~ | a
+    d8. d f8 f8. bes d8 | r d, d f bes f bes d |
+    c1 | r2. r8 c,  | \break
+    d8. f bes4 d,8 f bes | d,8. f bes4 f8 bes4 |
+    a1 | r2. r8 a | \break
+
+    g8. g a8 bes8. a g8 | r g g a bes8. c r8 |
+
 
     \bar "|."
   }
