@@ -1,19 +1,19 @@
 \version "2.18.2"
 
 <<
-\transpose c' e \relative {
-  \key f \minor
+\relative {
+  \key a \minor
 
-  c''2 bes4 aes | c2 c | c des4 c | bes2 bes | \break
-  bes aes4 g | bes2 bes | bes c4 des | c2 c | \break
+  e'2 d4 c | e2 e | e f4 e | d2 d | \break
+  d c4 b | d2 d | d e4 f | e2 e | \break
 
   \repeat volta 2 {
-    c f | ees4 f c2 | bes ees4 des | c2 c |
-    c des | c4 bes aes aes |
+    e a | g4 a e2 | d g4 f | e2 e |
+    e f | e4 d c c |
   }
   \alternative {
-    { bes bes c des | c2 c | }
-    { bes4 bes aes g | f2 f \bar "|." }
+    { d d e f | e2 e | }
+    { d4 d c b | a2 a \bar "|." }
   }
 }
 
