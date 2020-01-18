@@ -1,6 +1,21 @@
 \version "2.18.2"
 
 <<
+\chords {
+  \set chordChanges = ##t
+
+  a1:m | a:m | a:m | d:m/a |
+  d:m/a | d:m/a | d:m/a | c/g |
+
+  \repeat volta 2 {
+    c/g | c/g | d:m/a | a:m | c/g | c/g |
+  }
+  \alternative {
+    { g | c/g }
+    { g | a:m/e }
+  }
+}
+
 \relative {
   \key a \minor
 
