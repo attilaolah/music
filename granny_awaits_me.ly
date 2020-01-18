@@ -1,5 +1,10 @@
 \version "2.18.2"
 
+\header {
+  title = "Nagymama vár rám"
+  subtitle = "\n"
+}
+
 <<
   \chords {
     \set chordChanges = ##t
