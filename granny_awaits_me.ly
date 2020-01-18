@@ -13,7 +13,8 @@
     d:m/a | d:m/a | d:m/a | c/g |
 
     \repeat volta 2 {
-      c/g | c/g | d:m/a | a:m | c/g | c/g |
+      c/g | c/g | d:m/a | a:m | \break
+      c/g | c/g |
     }
     \alternative {
       { g | c/g }
