@@ -1,6 +1,6 @@
 \version "2.18.2"
 
-{%
+%{
   TODO: Recurring theme!
 
   Move to D. (d c bes, then g f ees).
