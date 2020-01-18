@@ -1,4 +1,4 @@
-[Nagymama vár rám](nagymama_var_ram.png)
+![Nagymama vár rám](nagymama_var_ram.png)
 
 ## Szöveg
 
