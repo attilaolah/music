@@ -1,4 +1,6 @@
-# Nagymama vár rám
+[Nagymama vár rám](nagymama_var_ram.png)
+
+## Szöveg
 
 > Nagymama vár rám szép ősz hajával.<br>
 > Elringat este, lágy mosolyával.<br>
