@@ -1,5 +1,5 @@
 % Downstream by Shira Kammen.
-% Adapted for the recorder by Attila Oláh.
+% Adapted from: https://musescore.com/veatsfx/downstream
 
 \version "2.19.83"
 
